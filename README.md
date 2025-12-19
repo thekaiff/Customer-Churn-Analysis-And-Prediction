@@ -47,7 +47,7 @@
           </ul>
         </li>
 
-        <li>
+  <li>
           <strong>Solution Delivered</strong>
           <ul>
             <li>Built an interactive <strong>Power BI churn dashboard</strong> with drill-downs across demographics, account behavior, and geography.</li>
@@ -55,7 +55,7 @@
           </ul>
         </li>
 
-        <li>
+  <li>
           <strong>Quantified Impact</strong>
           <ul>
             <li>Identified <strong>high-risk churn segment contributing over 60% of predicted churn</strong>.</li>
@@ -64,7 +64,7 @@
           </ul>
         </li>
 
-        <li>
+  <li>
           <strong>Business Value</strong>
           <ul>
             <li>Enabled leadership to prioritize <strong>preventive retention campaigns</strong>.</li>
