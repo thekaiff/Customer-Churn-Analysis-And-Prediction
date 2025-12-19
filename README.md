@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="320px" src="Images/churn logo.png" />
+  <img width="320px" src="Images/churn.png" />
 </div>
 
 <h1 align="center">Customer Churn Intelligence & Risk Prediction</h1>
@@ -38,6 +38,23 @@
 
 ---
 
+<h2 align="center">Dashboard Preview</h2>
+
+<table align="center">
+  <tr>
+    <td width="720" align="center">
+      <img src="/Images/summary.gif" width="680" alt="Churn Analysis Dashboard Summary" />
+      <p><strong>Overall Churn & Customer Behavior Overview</strong></p>
+    </td>
+    <td width="720" align="center">
+      <img src="/Images/prediction.gif" width="680" alt="Predicted Churn Customers Dashboard" />
+      <p><strong>Machine Learning – Predicted Churn Customers</strong></p>
+    </td>
+  </tr>
+</table>
+
+
+---
 
 <h2 align="center">Business Problem</h2>
 <table align="center">
@@ -61,6 +78,9 @@ Build a churn intelligence framework that answers:
   <li><em>Who is likely to churn next?</em></li>
 </ul>
 </body>
+</td>
+  </tr>
+</table></body>
 </td>
   </tr>
 </table>
