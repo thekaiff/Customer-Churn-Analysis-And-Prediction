@@ -6,6 +6,23 @@
 
 <h3 align="center">Industry: Telecommunications | Subscription-Based Services</h3>
 
+---
+
+<table align="center">
+  <tr>
+    <td width="1440">
+      <h2 align="center">Client Background</h2>
+      <body>
+        <strong>The client</strong> is a mid-sized telecommunications service provider operating across multiple U.S. states, serving a diverse residential customer base. Over recent quarters, the company experienced a noticeable increase in customer attrition, directly impacting recurring revenue and customer lifetime value (CLV).  
+        <br><br>
+        With a growing subscriber base and rising acquisition costs, leadership required a <strong>data-driven churn analysis</strong> to understand <strong>why customers leave, who is most at risk, and where proactive retention efforts should be focused</strong>.
+        <br><br>
+        Reporting to senior business stakeholders, this project delivers a <strong>full-cycle churn analytics solution</strong> — combining <strong>descriptive analytics, diagnostic insights, and machine learning–driven churn prediction</strong> using Power BI, SQL, Python, and supervised learning models.
+      </body>
+/td>
+  </tr>
+</table>
+
 
   <h2 align="center">Executive Summary</h2>
   <table align="center">
