@@ -8,21 +8,46 @@
 
 ---
 
+
 <table align="center">
   <tr>
     <td width="1440">
-      <h2 align="center">Client Background</h2>
-      <body>
-        <strong>The client</strong> is a mid-sized telecommunications service provider operating across multiple U.S. states, serving a diverse residential customer base. Over recent quarters, the company experienced a noticeable increase in customer attrition, directly impacting recurring revenue and customer lifetime value (CLV).  
-        <br><br>
-        With a growing subscriber base and rising acquisition costs, leadership required a <strong>data-driven churn analysis</strong> to understand <strong>why customers leave, who is most at risk, and where proactive retention efforts should be focused</strong>.
-        <br><br>
-        Reporting to senior business stakeholders, this project delivers a <strong>full-cycle churn analytics solution</strong> — combining <strong>descriptive analytics, diagnostic insights, and machine learning–driven churn prediction</strong> using Power BI, SQL, Python, and supervised learning models.
-      </body>
-/td>
+<h2 align="center">Client Background</h2>
+
+<p>
+<strong>ConnectTel</strong> is a mid-sized <strong>telecommunications service provider</strong> operating across multiple U.S. states, offering mobile, internet, and bundled digital services to a diverse residential customer base. While the company has maintained steady customer acquisition, it has faced <strong>persistent customer churn</strong>, particularly among newly acquired customers and those on flexible contract plans.
+</p>
+
+<p>
+At the time of analysis, ConnectTel managed a customer base consisting of <strong>tens of thousands of active and former customers</strong>, generating recurring monthly revenue through subscription-based pricing models. The business operates across multiple contract types, payment methods, tenure lengths, and service combinations—creating operational complexity in identifying <strong>why customers churn and which active customers are most at risk</strong>.
+</p>
+
+<p>
+Despite having access to rich customer, demographic, account, and service usage data, churn monitoring at ConnectTel was largely <strong>reactive and descriptive</strong>. Leadership and retention teams lacked a centralized, insight-driven view of churn drivers, limiting their ability to <strong>prioritize high-risk customers and take proactive retention actions</strong>.
+</p>
+
+<p>
+Reporting to the <strong>Customer Experience and Revenue Operations teams</strong>, an end-to-end churn analysis was conducted using <strong>SQL, Power BI, and Machine Learning</strong>. The engagement combined historical churn analysis with predictive modeling to enable a shift from reactive churn tracking to a <strong>proactive, data-driven retention strategy</strong>.
+</p>
+
+<strong>Key Focus Areas of the Analysis:</strong>
+<ul>
+  <li>Quantifying overall churn rate and identifying high-risk customer segments</li>
+  <li>Analyzing the impact of <strong>contract type, tenure length, and pricing</strong> on churn</li>
+  <li>Evaluating <strong>payment methods and billing preferences</strong> as churn indicators</li>
+  <li>Identifying <strong>geographic and demographic churn patterns</strong> to support targeted interventions</li>
+  <li>Building a <strong>machine learning–based churn prediction model</strong> to flag active customers at risk of churning</li>
+</ul>
+
+<p>
+The insights and recommendations from this analysis support <strong>executive decision-making, retention strategy design, and targeted customer engagement</strong>, with the objective of <strong>reducing avoidable churn and protecting recurring revenue</strong>.
+</p>
+
+   </td>
   </tr>
 </table>
 
+---
 
   <h2 align="center">Executive Summary</h2>
   <table align="center">
