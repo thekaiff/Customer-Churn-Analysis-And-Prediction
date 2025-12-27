@@ -350,7 +350,7 @@ Churn is a behavioral problem — combining historical patterns with predictive 
       </p>
 
   <p>
-        📧 <strong>Email:</strong> kaifsdkpro@gmail.com
+        📧 <strong>Email:</strong> kaif.sdk.uae@gmail.com
       </p>
 
   <p>
